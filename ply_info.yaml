@@ -1,0 +1,11 @@
+# List of point clouds and their camera poses
+
+affine_invariant:
+- path: "output/color_1280x720_30hz_20250206_164001_0/mesh.ply"
+- Translation: [0., 0., 0.]
+- Rotation: [1., 0., 0., 0.] # xyzw
+
+rgbd_point_cloud:
+- path: "/home/contoro/ws/MoGe/image/colored_points_20250206_164050.ply"
+- Translation: [0., 0., 0.]
+- Rotation: [0., 0., 0., 1.] # xyzw
