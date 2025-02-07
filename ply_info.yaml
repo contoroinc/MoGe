@@ -6,6 +6,6 @@ affine_invariant:
 - Rotation: [1., 0., 0., 0.] # xyzw
 
 rgbd_point_cloud:
-- path: "/home/contoro/ws/MoGe/image/colored_points_20250206_164050.ply"
+- path: "image/colored_points_20250206_164050.ply"
 - Translation: [0., 0., 0.]
 - Rotation: [0., 0., 0., 1.] # xyzw
